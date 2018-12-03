@@ -1,5 +1,7 @@
-12345
-12344556
-12344567
-123456789
+
+
+{
+public static void main ()
+system.out.println("helloo its a new txt file")
+}
 
