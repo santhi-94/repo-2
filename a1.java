@@ -1,8 +1,17 @@
 {
-public.static.void main() #by qa1
+public.static.void main() #by dev1
 {
-system.out.println("a1 by qa1");
+system.out.println("a1 by dev1");
 }
-} #eof by qa1
+} #eof by dev1
 =======================
-output: a1  # by qa1
+output: a1
+
+===============================================
+ # hello world
+ {
+	public static void main () # by dev1
+	{
+		system.out.println ("hello world");
+	}
+}# eof by dev1

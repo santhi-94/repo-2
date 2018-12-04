@@ -1,8 +1,8 @@
 {
-
-public.static.void.main() # by qa1
+public.static.void.main() # by dev1
 {
-for (1=5,1<= 0, i++);
+for (1=5,1<= 0, i++); #by dev1
+{
 sysytem .out.println ("output is incremented  #by qa1")
 }
 } #eof qa1 
