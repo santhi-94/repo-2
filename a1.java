@@ -15,3 +15,7 @@ output: a1
 		system.out.println ("hello world");
 	}
 }# eof by dev1
+
+==========================================
+output : hello world
+
