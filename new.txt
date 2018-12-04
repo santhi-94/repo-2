@@ -1,7 +1,0 @@
-
-
-{
-public static void main ()
-system.out.println("helloo its a new txt file")
-}
-
