@@ -9,8 +9,7 @@ output: a1
 
 ===============================================
  # hello world
- 
-{
+ {
 	public static void main () # by dev1
 	{
 		system.out.println ("hello world");
